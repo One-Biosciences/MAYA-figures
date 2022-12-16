@@ -11,7 +11,7 @@ The first step is to check that all required packages are installed. The list is
 The second step is to generate all datasets required for the analysis. 
 You can find the code to generate all datasets in ./scripts/generate_datasets.R
 Some require to download data where indicated and store them in the indicated folder.
-Some datasets are already provided (Kidney, Colon, Larynx, Ovary) as SingleCellExperiment objects in corresponding folders in ./datasets/.
+Some datasets are already provided (Kidney, Colon, Larynx) as SingleCellExperiment objects in corresponding folders in ./datasets/.
 
 ## 3- Reproducing analysis and figures
 
